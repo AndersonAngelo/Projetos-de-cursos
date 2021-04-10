@@ -1,0 +1,39 @@
+body {
+    background-image: url(img/fundo.png);
+    font: 16px Arial, Helvetica, sans-serif;
+}
+#principal {
+    width: 900px;
+}
+#menu {
+    background-color: #b6b6a5;
+    padding: 18px;
+}
+#text {
+    font-size: 13px;
+    text-align: justify;
+    background: rgb(245, 242, 242);
+    padding: 10px;
+}
+#rodape {
+    text-align: center;
+}
+#contato {
+    font-size: 1.2em;
+    padding: 8px;
+}
+.img-campanha {
+    border: solid 10px #c3c3ae;
+}
+a {
+    color: #4b556a;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 5px;
+}
+
+h2 {
+    color: #828271;
+    font-size: 1.2em;
+}
+
