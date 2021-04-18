@@ -19,3 +19,12 @@ a:hover {
     background-color: #f99200;
     color: #fff;
 }
+#home #navegação .home a,
+#sobre #navegação .sobre a,
+#serviço #navegação .serviço a,
+#noticias #navegação .noticias a,
+#contato #navegação .contato a {
+    background-position: right bottom;
+    background-color: #f99200;
+    color: #fff;
+}
