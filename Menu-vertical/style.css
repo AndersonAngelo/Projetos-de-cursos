@@ -1,0 +1,20 @@
+ul {
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+}
+ul a {
+    display: block;
+    width: 200px;
+    height: 40px;
+    color: #000;
+    text-decoration: none;
+    text-indent: 40px;
+    line-height: 40px;
+    background: url(img/menu.png);
+    background-repeat: no-repeat;
+}
+a:hover {
+    background-position: right bottom;
+    color: #fff;
+}
